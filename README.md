@@ -22,6 +22,7 @@ I am a Security Analyst, GRC and compliance professional with a deep background 
 - [Google Professional Cybersecurity Cert](https://www.coursera.org/account/accomplishments/specialization/A8PD8978LT43)
 - [Try Hack Me SOC Level I Cert](https://tryhackme.com/certificate/THM-FFPYE9ZGI3)
 - [Qualys Vulnerability Management (VMDR)](https://www.qualys.com)
+- [Scrum Master in Agile](https://www.scrumalliance.org/community/profile/imorrison6)
 
 <h2> 🤳 Connect with me:</h2>
 
