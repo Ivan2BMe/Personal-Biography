@@ -16,7 +16,7 @@ I am a Security Analyst, GRC and compliance professional with a deep background 
 - <b>Python</b>
   - [File Parsing Allow List Example](https://github.com/Ivan2BMe/Google-Cybersecurity-Portfolio/blob/main/python-allowlist-automation/README.md)
 
-<h2>Certificates</h2>
+<h2>Certifications</h2>
 
 - [Google Professional Cybersecurity Cert](https://www.coursera.org/account/accomplishments/specialization/A8PD8978LT43)
 - [Try Hack Me SOC Level I Cert](https://tryhackme.com/certificate/THM-FFPYE9ZGI3)
