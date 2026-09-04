@@ -1,6 +1,8 @@
 <h1>Hi, my name is Ivan. Welcome to my Bio Page! </h1>
 <h2>Security Analyst, GRC, SOC Level 1 </h2>
 
+- 😄 Pronouns: He/Him
+
 <h2>About Ivan</h2>
 I am a Security Analyst, GRC and compliance professional with a deep background in operational safety, physical risk management, and federal compliance. For years in logistics, I managed critical physical risk and strictly audited compliance with DOT regulations. Recognizing how heavily global supply chains rely on secure digital infrastructure, I’ve spent the last three years pivoting my rigorous auditing mindset into IT cybersecurity GRC. I’ve earned my Google Cybersecurity Professional Certificate, Scrum Master credential, SOC Level I Cert from Try Hack Me and spent over a hundred hours conducting hands-on GRC labs mapping NIST CSF and PCI DSS controls. I'm eager to bring this unique combination of physical compliance discipline and modern IT risk expertise to your team.
 
