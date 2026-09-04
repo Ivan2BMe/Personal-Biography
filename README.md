@@ -12,7 +12,8 @@
 - <b>Python</b>
   - [File Parsing Allow List Example](https://github.com/Ivan2BMe/Google-Cybersecurity-Portfolio/blob/main/python-allowlist-automation/README.md)
 
-
+<h2>Certificates</h2>
+- [Google Professional Cybersecurity Certificate](https://coursera.org/share/2932b95cdd5621d34e82cb659c929007)
 
 <h2> 🤳 Connect with me:</h2>
 
