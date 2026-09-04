@@ -1,6 +1,9 @@
 <h1>Hi, my name is Ivan. Welcome to my Bio Page! </h1>
 <h2>Security Analyst, GRC, SOC Level 1 </h2>
 
+<h2>About Ivan</h2>
+I am a Security Analyst, GRC and compliance professional with a deep background in operational safety, physical risk management, and federal compliance. For years in logistics, I managed critical physical risk and strictly audited compliance with DOT regulations. Recognizing how heavily global supply chains rely on secure digital infrastructure, I’ve spent the last three years pivoting my rigorous auditing mindset into IT cybersecurity GRC. I’ve earned my Google Cybersecurity Professional Certificate, Scrum Master credential, SOC Level I Cert from Try Hack Me and spent over a hundred hours conducting hands-on GRC labs mapping NIST CSF and PCI DSS controls. I'm eager to bring this unique combination of physical compliance discipline and modern IT risk expertise to your team.
+
 <h2>Resume</h2>
 
 <h2>👨‍💻 Software Development Projects:</h2>
@@ -13,7 +16,10 @@
   - [File Parsing Allow List Example](https://github.com/Ivan2BMe/Google-Cybersecurity-Portfolio/blob/main/python-allowlist-automation/README.md)
 
 <h2>Certificates</h2>
-- [Google Professional Cybersecurity Certificate](https://coursera.org/share/2932b95cdd5621d34e82cb659c929007)
+
+- [Google Professional Cybersecurity Cert](https://www.coursera.org/account/accomplishments/specialization/A8PD8978LT43)
+- [Try Hack Me SOC Level I Cert](https://tryhackme.com/certificate/THM-FFPYE9ZGI3)
+- [Qualys Vulnerability Management (VMDR)](https://www.qualys.com)
 
 <h2> 🤳 Connect with me:</h2>
 
