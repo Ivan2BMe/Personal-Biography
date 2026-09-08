@@ -36,7 +36,7 @@ I am a Security Analyst, GRC and compliance professional with a deep background 
 [reddit]: https://www.reddit.com/user/Ivan2bGreat/
 
 <!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**IvanMorrison/IvanMorrison1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
