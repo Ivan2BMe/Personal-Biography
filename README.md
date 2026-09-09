@@ -10,6 +10,7 @@ I am a Security Analyst, GRC and compliance professional with a deep background 
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Wireshark</b>
+  - [Traffic Analysis]()
 - <b>Burp Suite</b>
 - <b>Splunk Enterprise</b>
 - <b>Event Viewer (Windows)</b>
