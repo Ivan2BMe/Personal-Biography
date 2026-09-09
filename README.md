@@ -10,7 +10,7 @@ I am a Security Analyst, GRC and compliance professional with a deep background 
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Wireshark</b>
-  - [Traffic Analysis]()
+  - [Traffic Analysis Example](https://github.com/Ivan2BMe/Personal-Biography/blob/main/Wireshark%20Traffic%20Analysis%20Example.pdf)
 - <b>Burp Suite</b>
 - <b>Splunk Enterprise</b>
 - <b>Event Viewer (Windows)</b>
