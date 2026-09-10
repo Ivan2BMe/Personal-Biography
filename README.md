@@ -11,8 +11,9 @@ I am a Security Analyst, GRC and compliance professional with a deep background 
 
 - <b>Wireshark</b>
   - [Traffic Analysis Example](https://github.com/Ivan2BMe/Personal-Biography/blob/main/Wireshark%20Traffic%20Analysis%20Example.pdf)
-- <b>Burp Suite</b>
+- <b>Structured Query Language (SQL)</b>
 - <b>Splunk Enterprise</b>
+  - [Alert Brute Force Attack Example](https://github.com/Ivan2BMe/Personal-Biography/blob/main/Splunk%20Enterprise%20Example.pdf)
 - <b>Event Viewer (Windows)</b>
 - <b>Python</b>
   - [File Parsing Allow List Example](https://github.com/Ivan2BMe/Google-Cybersecurity-Portfolio/blob/main/python-allowlist-automation/README.md)
