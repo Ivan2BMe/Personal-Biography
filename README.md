@@ -12,6 +12,7 @@ I am a Security Analyst, GRC and compliance professional with a deep background 
 - <b>Wireshark</b>
   - [Traffic Analysis Example](https://github.com/Ivan2BMe/Personal-Biography/blob/main/Wireshark%20Traffic%20Analysis%20Example.pdf)
 - <b>Structured Query Language (SQL)</b>
+  - [Apply Filters to SQL Queries](https://github.com/Ivan2BMe/Personal-Biography/blob/main/Apply%20filters%20to%20SQL%20queries.pdf)
 - <b>Splunk Enterprise</b>
   - [Alert Brute Force Attack Example](https://github.com/Ivan2BMe/Personal-Biography/blob/main/Splunk%20Enterprise%20Example.pdf)
 - <b>Event Viewer (Windows)</b>
@@ -23,7 +24,7 @@ I am a Security Analyst, GRC and compliance professional with a deep background 
 - [Google Professional Cybersecurity Cert](https://www.coursera.org/account/accomplishments/specialization/A8PD8978LT43)
 - [Try Hack Me SOC Level I Cert](https://tryhackme.com/certificate/THM-FFPYE9ZGI3)
 - [Qualys Vulnerability Management (VMDR)](https://www.qualys.com)
-- [Scrum Master in Agile](https://www.scrumalliance.org/community/profile/imorrison6)
+- [Scrum Master In Agile](https://www.scrumalliance.org/community/profile/imorrison6)
 
 <h2> 🤳 Connect with me:</h2>
 
