@@ -16,6 +16,7 @@ I am a Security Analyst, GRC and compliance professional with a deep background 
 - <b>Splunk Enterprise</b>
   - [Alert Brute Force Attack Example](https://github.com/Ivan2BMe/Personal-Biography/blob/main/Splunk%20Enterprise%20Example.pdf)
 - <b>Event Viewer Management (Windows)</b>
+  - [Powershell Downgrade Attack Example](https://github.com/Ivan2BMe/Personal-Biography/blob/main/Event%20Viewer%20Downgrade%20Attack.pdf)
 - <b>Python</b>
   - [File Parsing Allow List Example](https://github.com/Ivan2BMe/Google-Cybersecurity-Portfolio/blob/main/python-allowlist-automation/README.md)
 
